@@ -27,10 +27,3 @@ python  -m venv env_name
 env_name\bin\activate.bat
 ### Install dependencies
 pip install -r requirements.txt
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cms-api.git
-   cd cms-api
