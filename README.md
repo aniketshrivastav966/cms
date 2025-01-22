@@ -27,3 +27,5 @@ python  -m venv env_name
 env_name\bin\activate.bat
 ### Install dependencies
 pip install -r requirements.txt
+### Migration
+python manage.py migrate
